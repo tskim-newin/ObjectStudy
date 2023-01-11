@@ -7,8 +7,8 @@
 
 ### 1주차
 
-[코드스피츠 83 오브젝트 - 1회차(1)](https://www.youtube.com/watch?v=sWyZUzQW3IM)
-[코드스피츠 83 오브젝트 - 1회차(2)](https://www.youtube.com/watch?v=sWyZUzQW3IM)
+- [코드스피츠 83 오브젝트 - 1회차(1)](https://www.youtube.com/watch?v=sWyZUzQW3IM)
+- [코드스피츠 83 오브젝트 - 1회차(2)](https://www.youtube.com/watch?v=sWyZUzQW3IM)
 
 
 ### 2주차
